@@ -3,7 +3,7 @@
 ### Lead Software Engineer - Full-Stack Software Engineer
 
 <a href="https://www.linkedin.com/in/sergey-avanesyan-24b61059/" target="_blank">
-  <img src="./images/LI-In-Bug.png" width="50" height="50" alt="LinkedIn"/>
+  <img src="./images/LI-In-Bug.png" width="76" height="65" alt="LinkedIn"/>
 </a>
 
 ### Abot me
