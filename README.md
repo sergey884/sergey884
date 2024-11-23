@@ -1,10 +1,7 @@
 ## Hi there, I am Sergey Avanesyan 👋. Nice to see you!
 
 ### Lead Software Engineer - Full-Stack Software Engineer
-
-<a href="https://www.linkedin.com/in/sergey-avanesyan-24b61059/" target="_blank">
-  <img src="./images/LI-In-Bug.png" width="76" height="65" alt="LinkedIn"/>
-</a>
+[Linkedin](https://www.linkedin.com/in/sergey-avanesyan-24b61059/) | [StackOverflow](https://stackoverflow.com/users/4894772/sergey-avanesyan) | [YouTube](https://www.youtube.com/watch?v=7f787SsgknA&ab_channel=EPAMMoscowITsubbotnik)
 
 ### Abot me
 - Full-stack software engineer with more than 12 years production extensive experience in JavaScript, Node.js and Front-End development
@@ -21,9 +18,14 @@
 
 
 ### Technical skills
-- 🛠 **Languages:** JavaScript, Python, TypeScript, C++
-- **Frameworks and Tools:** Node.js, Next.js, React, Angular
-- **Cloud Tecnologies:** AWS (EC2, ELB, S3, ClodFront, DynamoDB and so on)
+- **Programming Languages:** JavaScript, Python, TypeScript, C++, UNIX shell scripting, Groovy, Lisp, Clojure, PHP
+- **Frameworks & Libraries:** Node.js, Next.js, Express.js, Deno
+- **Front-End technologies:** React, Angular, Vue, React Native, Redux, Redux Saga, Webpack, CSS, SASS/SCSS, HTML, Storybook, Styled components, Jest, Mocha, Chrome DevTools, FLUX Architecture Pattern
+- **Cloud Technologies:** AWS (S3, CloudFront, Lambda, EC2, ELB, Route 53, SQS, CloudWatch, VPC and so on)
+- **Tools & Technologies:** Jenkins, Git, Github Actions, Docker
+- **Databases:** MongoDB, DynamoDB, Amazon RDS, Redis, MySQL 
+- **Methodologies:** Agile, SCRUM, Kanban, Waterfall, Test Driven Development (TDD) 
+- **Soft Skills:** Mentoring, Interviewing, Team Leading experience, Newcomers onboarding, Conference Speaker
 <!--
 **sergey884/sergey884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
